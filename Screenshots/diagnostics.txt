@@ -1,0 +1,28 @@
+01-19 19:06:55.352  30556-30556/edu.washington.mhd94.activityspy I/dalvikvm﹕ Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
+01-19 19:06:55.352  30556-30556/edu.washington.mhd94.activityspy W/dalvikvm﹕ VFY: unable to resolve virtual method 11349: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
+01-19 19:06:55.352  30556-30556/edu.washington.mhd94.activityspy I/dalvikvm﹕ Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
+01-19 19:06:55.352  30556-30556/edu.washington.mhd94.activityspy W/dalvikvm﹕ VFY: unable to resolve virtual method 11355: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy I/dalvikvm﹕ Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy W/dalvikvm﹕ VFY: unable to resolve virtual method 9043: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy I/dalvikvm﹕ Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy W/dalvikvm﹕ VFY: unable to resolve virtual method 364: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy I/dalvikvm﹕ Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
+01-19 19:06:55.362  30556-30556/edu.washington.mhd94.activityspy W/dalvikvm﹕ VFY: unable to resolve virtual method 386: Landroid/content/res/TypedArray;.getType (I)I
+01-19 19:06:55.392  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onCreate event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:06:55.392  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onStart event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:06:55.392  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onResume event fired! Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:06:55.442  30556-30556/edu.washington.mhd94.activityspy I/Adreno-EGL﹕ <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+    OpenGL ES Shader Compiler Version: E031.24.00.08+13
+    Build Date: 03/28/14 Fri
+    Local Branch: 0328_AU200_patches
+    Remote Branch:
+    Local Patches:
+    Reconstruct Branch:
+01-19 19:07:22.642  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onPause event fired! Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:22.652  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onStop event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:36.002  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onRestart event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:36.002  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onStart event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:36.032  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onResume event fired! Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:39.022  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onPause event fired! Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:39.612  30556-30556/edu.washington.mhd94.activityspy I/MainActivity﹕ onStop event fired!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.mhd94.activityspy/.MainActivity }
+01-19 19:07:42.722  30556-30556/edu.washington.mhd94.activityspy E/MainActivity﹕ We’re going down, Captain!
